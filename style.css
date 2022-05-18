@@ -46,33 +46,23 @@ section{
 
 .main{
     width: 100%;
-    min-height: 90vh;
-    display: flex;
+    min-height: 100vh;
     align-items: center;
     background: url(images/images.jpeg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
     
 }
 
 .main h2{
 
     color: rgb(197, 6, 6);
-    font-size: 3.5em;
+    font-size: 3.1em;
     font-weight: 700;
 }
 
 
 .main h3 {
-    color: #000000;
-    font-size: 2em;
-    font-weight: 800;
-    letter-spacing: 1px;
-    margin-top: 10px;
-    margin-bottom: 30px;
-}
-.main h4 {
     color: #000000;
     font-size: 2em;
     font-weight: 800;
